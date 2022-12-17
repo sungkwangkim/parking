@@ -5,7 +5,7 @@ import cv2
 # pip install imutils
 import imutils
 
-# pip install imutils
+# pip install pytesseract
 import pytesseract
 
 
